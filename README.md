@@ -1,6 +1,4 @@
-# Keylogger-python-
-A simple keylogger built with Python. This project is for educational purposes only, designed to demonstrate keyboard event listening and file I/O.
-# Python Keylogger (For Educational Purposes Only)
+
 
 **⚠️ DISCLAIMER: This project is for educational purposes only. It is intended to demonstrate concepts in Python programming. It must not be used for malicious activities or to monitor any computer without the explicit, written consent of the owner.**
 
